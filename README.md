@@ -4,4 +4,13 @@ Welcome to my **Problem Solving Repository**! 🚀
 Here, I’ve collected my solutions to coding challenges from different platforms — written in **Python** 🐍.  
 The goal of this repo is to **sharpen problem-solving skills, learn algorithms, and write clean code**.  
 
----
+
+## 📌 About This Repo
+
+🏫 Started as a way to practice programming during my early college years.
+
+🐍 All solutions are implemented in Python.
+
+🌱 Covers basic concepts like loops, conditionals, functions, lists, strings, and math-based problems.
+
+🎯 Problems are from different online platforms, coding assignments, and practice sheets.
