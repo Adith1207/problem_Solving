@@ -11,9 +11,9 @@ The goal of this repo is to **sharpen problem-solving skills, learn algorithms, 
 
 🐍 All solutions are implemented in Python.
 
-✅ Beginner-friendly problems (freshman year)
-✅ Data Structures & Algorithms (sophomore year)
-✅ Minimization & Optimization problems
+✅ Beginner-friendly problems (freshman year) <br>
+✅ Data Structures & Algorithms (sophomore year) <br>
+✅ Minimization & Optimization problems <br>
 
 🎯 Problems are from different online platforms, coding assignments, and practice sheets.
 
